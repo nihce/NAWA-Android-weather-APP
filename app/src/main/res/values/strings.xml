@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NAWA</string>
+    <string name="default_location">Iščem lokacijo</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Klikni tukaj za zamenjavo mesta</string>
+    <string name="weather_description">To je simbol za vreme</string>
+    <string name="back_button_description">Nazaj na vreme</string>
+    <string name="get_weather">Zamenjaj mesto</string>
+    <string name="default_query">Vnesi mesto</string>
+    <string name="my_location_description">Klikni tukaj za prikaz trenutnega vremena</string>
+    <string name="change_location_description">Klikni tukaj za vreme trenutne lokacije</string>
+    <string name="network_error">Omrežje ni na voljo</string>
+
+</resources>
